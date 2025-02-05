@@ -1,7 +1,7 @@
 streamlit
 numpy
 pandas
-scikit-learn
+scikit-learn -i https://pypi.tuna.tsinghua.edu.cn/simple
 plotly
 time
 scipy
